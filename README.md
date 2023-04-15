@@ -1,2 +1,0 @@
-# Phonebook
- Curso JS
